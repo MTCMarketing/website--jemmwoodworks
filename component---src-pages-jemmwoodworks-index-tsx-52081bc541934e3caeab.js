@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[949],{7318:function(e,l,a){a.r(l);var u=a(7294),c=a(1107);l.default=()=>u.createElement(c.default,null)}}]);
+//# sourceMappingURL=component---src-pages-jemmwoodworks-index-tsx-52081bc541934e3caeab.js.map
